@@ -1,0 +1,16 @@
+D:\VS2019\Patterns\bin\Debug\net5.0\Patterns.exe
+D:\VS2019\Patterns\bin\Debug\net5.0\Patterns.deps.json
+D:\VS2019\Patterns\bin\Debug\net5.0\Patterns.runtimeconfig.json
+D:\VS2019\Patterns\bin\Debug\net5.0\Patterns.runtimeconfig.dev.json
+D:\VS2019\Patterns\bin\Debug\net5.0\Patterns.dll
+D:\VS2019\Patterns\bin\Debug\net5.0\ref\Patterns.dll
+D:\VS2019\Patterns\bin\Debug\net5.0\Patterns.pdb
+D:\VS2019\Patterns\obj\Debug\net5.0\Patterns.csprojAssemblyReference.cache
+D:\VS2019\Patterns\obj\Debug\net5.0\Patterns.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS2019\Patterns\obj\Debug\net5.0\Patterns.AssemblyInfoInputs.cache
+D:\VS2019\Patterns\obj\Debug\net5.0\Patterns.AssemblyInfo.cs
+D:\VS2019\Patterns\obj\Debug\net5.0\Patterns.csproj.CoreCompileInputs.cache
+D:\VS2019\Patterns\obj\Debug\net5.0\Patterns.dll
+D:\VS2019\Patterns\obj\Debug\net5.0\ref\Patterns.dll
+D:\VS2019\Patterns\obj\Debug\net5.0\Patterns.pdb
+D:\VS2019\Patterns\obj\Debug\net5.0\Patterns.genruntimeconfig.cache
